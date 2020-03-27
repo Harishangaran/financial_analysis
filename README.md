@@ -6,7 +6,7 @@ Again I'll do my best to make the analytics of stock data dynamic, that is
 pulling data from either yahoo finance or quandl.
 
 Let's learn how we can use free financial data sources and the power of
-open source python libraries can help us with financial analysis.
+open source python libraries for financial analysis.
 
 ---------------------------------------------------------Files-----------------------------------------------------------------
 
